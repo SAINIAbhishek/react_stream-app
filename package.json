@@ -1,0 +1,22 @@
+{
+  "name": "react_stream-app",
+  "version": "1.0.0",
+  "description": "It is a learning project under the course 'Modern React with Redux' on the udemy. It is a streaming application where a user can create channels/streams, show streams somewhat like https://www.twitch.tv/ but not exact.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAINIAbhishek/react_stream-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Abhishek SAINI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAINIAbhishek/react_stream-app/issues"
+  },
+  "homepage": "https://github.com/SAINIAbhishek/react_stream-app#readme"
+}
