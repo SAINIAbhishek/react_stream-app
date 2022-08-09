@@ -8,4 +8,3 @@ It provided me an opportunity to learn different concepts of React.
 <hr>
 
 - Navigation with React Router
-- Handling Authentication with React
