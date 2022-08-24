@@ -8,3 +8,5 @@ It provided me an opportunity to learn different concepts of React.
 <hr>
 
 - Navigation with React Router
+- Handling Authentication (Google OAuth: add your project client id to work with it.)
+- Redux setup
