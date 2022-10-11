@@ -9,3 +9,4 @@ It provided me an opportunity to learn different concepts of React.
 - Navigation with React Router
 - Handling Authentication (Google OAuth: add your project client id to work with it.)
 - Redux form with validation
+- Server implementation with JSON server
