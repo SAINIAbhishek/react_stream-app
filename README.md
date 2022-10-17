@@ -11,3 +11,4 @@ It provided me an opportunity to learn different concepts of React.
 - Redux form with validation
 - Server implementation with JSON server (to launch the server open the 'api' directory and run the cmd 'npm run start' in the terminal and keep it running in background)
 - Use Axios and redux-thunk to make a request to store the form values into the db.json
+- REST api conventions
