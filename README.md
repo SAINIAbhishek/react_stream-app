@@ -13,3 +13,5 @@ It provided me an opportunity to learn different concepts of React.
 - Use Axios and redux-thunk to make a request to store the form values into the db.json
 - REST api conventions
 - React portals (modal windows)
+- Stream Video (OBS & RTMP server)
+- Replace Redux Form with React Final Form
